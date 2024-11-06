@@ -1,4 +1,6 @@
-### study-of-basic-gates
+NAME:SUGESHWA S
+REGISTER NO:24900706
+### EXPERIMENT 1: Study of basic gates
 
 **AIM:** 
 
@@ -64,15 +66,17 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+ ![Screenshot 2024-11-06 114032](https://github.com/user-attachments/assets/d91a0d90-25f2-4b78-8c30-6244c422e0c2)
 
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
 
-**RTL realization Output:** 
 
-**RTL**
+**RTL realization Output:** ![Screenshot 2024-11-06 114139](https://github.com/user-attachments/assets/892aa79c-714e-4500-8707-b95e1cf41d96)
+
+
+**TIMING DIAGRAM** ![Screenshot 2024-11-06 114059](https://github.com/user-attachments/assets/8ed62a57-740b-4068-8d41-04902f211da2)
+
 
 **Result:**
 
