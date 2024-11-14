@@ -1,5 +1,5 @@
-NAME:SUGESHWA S
-REGISTER NO:24900706
+### NAME:SUGESHWA S
+### REGISTER NO:24900706
 ### EXPERIMENT 1: Study of basic gates
 
 ### AIM: 
@@ -80,5 +80,7 @@ Y= A⊕B
 
 
 ### Result:
+Studied and verified the truth table of logic gates in Quartus II using Verilog programming
+successfully.
 
 
