@@ -1,4 +1,4 @@
-### NAME:SUGESHWA S
+![image](https://github.com/user-attachments/assets/40e97cf1-21e3-4925-8c21-b46ad445b9ef)### NAME:SUGESHWA S
 ### REGISTER NO:24900706
 ### EXPERIMENT 1: Study of basic gates
 
@@ -78,7 +78,8 @@ Y= A⊕B
 
 
 ### TIMING DIAGRAM :
-![Screenshot 2024-11-06 114059](https://github.com/user-attachments/assets/8ed62a57-740b-4068-8d41-04902f211da2)
+![image](https://github.com/user-attachments/assets/5b9a7102-c6dc-4e3b-a966-ddad69fe06e1)
+
 
 
 ### RESULT:
