@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/40e97cf1-21e3-4925-8c21-b46ad445b9ef)### NAME:SUGESHWA S
+### NAME:SUGESHWA S
 ### REGISTER NO:24900706
 ### EXPERIMENT 1: Study of basic gates
 
